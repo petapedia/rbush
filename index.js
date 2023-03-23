@@ -1,4 +1,4 @@
-import quickselect from 'quickselect';
+import quickselect from 'https://petapedia.github.io/quickselect/index.js';
 
 export default class RBush {
     constructor(maxEntries = 9) {
